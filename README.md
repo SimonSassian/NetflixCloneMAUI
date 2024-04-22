@@ -19,10 +19,6 @@ Details Page - Youtube Trailer Video        | Details Page - Trailers & More Tab
 Details Page - Similar Movies Tab                    | More Like This
 :-----------------------------: | :--------------------------:
 ![Img1](https://raw.githubusercontent.com/Abhayprince/NetflixCloneMAUI/master/Screenshots/n7.png) | ![Img1](https://raw.githubusercontent.com/Abhayprince/NetflixCloneMAUI/master/Screenshots/n7.png)
-
-## To Run Locally
-- Clone the Repo
-    `git clone https://github.com/Abhayprince/NetflixCloneMAUI `
     
 - Restore the packages (Rebuild the solution)
 - Create an account on https://www.themoviedb.org and generate API Key
